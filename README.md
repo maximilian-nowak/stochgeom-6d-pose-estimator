@@ -2,7 +2,7 @@
 
 # stochgeom-6d-pose-estimator
 
-This Project includes the code of my bachelor thesis. The goal was to implement a stochastic geometrical framework as introduced in [this](https://link.springer.com/article/10.1007/s10851-024-01200-2#citeas) paper and compare it with a neural network. In order to demonstrate and verify my results I applied this mathematical framework 6d pose estimation.
+This Project includes the code of my bachelor thesis. The goal was to implement a stochastic geometrical framework as introduced in [this](https://link.springer.com/article/10.1007/s10851-024-01200-2#citeas) paper and compare it with a neural network. In order to demonstrate and verify my results I applied this mathematical framework to 6d pose estimation.
 
 Due to time constraints during development phase the code is a bit raw and lacks modularization. 
 
